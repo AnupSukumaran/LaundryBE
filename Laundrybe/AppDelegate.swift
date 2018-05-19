@@ -25,7 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
 
     var window: UIWindow?
 
-  //AIzaSyDDjoit1U1pN5vQ2cVRF2v69b_q5zPHK3w
+ 
    
    // let googleMapsApiKey = "AIzaSyDo5eoo-tOjTxcSPQrQy-QPjmP43AmgK44" // api for plac picker
     let googleMapsApiKey = "AIzaSyB2DDTP4fAro2vIqmPXc9nDiLrOk50uMRc" // api for plac picker
