@@ -1,0 +1,17 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "svg2pdf_TgZis7BT.pdf",
+      "compression-type" : "gpu-optimized-smallest"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "compression-type" : "gpu-optimized-smallest",
+    "preserves-vector-representation" : true
+  }
+}
